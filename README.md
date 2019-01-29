@@ -1,7 +1,7 @@
 # Python-Training-Projects
 Converting form PERL to Python with graded projects.
 
-##########################################################################$
+#######################################################
 HELLOWORLD.py
 ---------------------------------------------------------------------------
 The First thing here is Helloworld in Pythion running under Apache/Ubunto
